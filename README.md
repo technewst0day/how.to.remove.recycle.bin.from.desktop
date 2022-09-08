@@ -1,6 +1,6 @@
 # how to remove recycle bin from desktop
 
-[![how to remove recycle bin from desktop](gett-stateed.png)](https://computersolve.com/how-to-remove-recycle-bin-from-desktop/)
+[![how to remove recycle bin from desktop](gett-stateed.png)](https://icncomputer.com/how-to-remove-recycle-bin-from-desktop/)
 
 If you’re a Windows user, then you’ll be familiar with the Recycle Bin icon ever since you used your first system. It’s been a mainstay feature that is synonymous with any PC. After all, we all need a place to delete our unwanted files and folders. But if you find yourself not having much use for the Recycle Bin, or you simply want to hide it, then here’s a guide explaining how to remove Recycle Bin from the desktop.
 
